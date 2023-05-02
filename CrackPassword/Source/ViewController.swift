@@ -1,3 +1,10 @@
+//
+//  View.swift
+//  CrackPassword
+//
+//  Created by Daniil Davidovich on 15.02.23.
+//
+
 import UIKit
 
 @available(iOS 15.0, *)

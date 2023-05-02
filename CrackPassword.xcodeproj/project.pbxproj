@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		264DFEDA260D07EF0035EA15 /* Pr2503.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pr2503.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		264DFEDA260D07EF0035EA15 /* CrackPassword.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrackPassword.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		264DFEDD260D07EF0035EA15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		264DFEDF260D07EF0035EA15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		264DFEE1260D07EF0035EA15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		264DFED1260D07EF0035EA15 = {
 			isa = PBXGroup;
 			children = (
-				264DFEDC260D07EF0035EA15 /* Pr2503 */,
+				264DFEDC260D07EF0035EA15 /* CrackPassword */,
 				264DFEDB260D07EF0035EA15 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,18 +48,18 @@
 		264DFEDB260D07EF0035EA15 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				264DFEDA260D07EF0035EA15 /* Pr2503.app */,
+				264DFEDA260D07EF0035EA15 /* CrackPassword.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		264DFEDC260D07EF0035EA15 /* Pr2503 */ = {
+		264DFEDC260D07EF0035EA15 /* CrackPassword */ = {
 			isa = PBXGroup;
 			children = (
 				A53231B1299CFD9C00802431 /* Resource */,
 				A53231B0299CFD9300802431 /* Source */,
 			);
-			path = Pr2503;
+			path = CrackPassword;
 			sourceTree = "<group>";
 		};
 		A53231B0299CFD9300802431 /* Source */ = {
@@ -94,9 +94,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		264DFED9260D07EF0035EA15 /* Pr2503 */ = {
+		264DFED9260D07EF0035EA15 /* CrackPassword */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 264DFEEE260D07F00035EA15 /* Build configuration list for PBXNativeTarget "Pr2503" */;
+			buildConfigurationList = 264DFEEE260D07F00035EA15 /* Build configuration list for PBXNativeTarget "CrackPassword" */;
 			buildPhases = (
 				264DFED6260D07EF0035EA15 /* Sources */,
 				264DFED7260D07EF0035EA15 /* Frameworks */,
@@ -106,9 +106,9 @@
 			);
 			dependencies = (
 			);
-			name = Pr2503;
+			name = CrackPassword;
 			productName = Pr2503;
-			productReference = 264DFEDA260D07EF0035EA15 /* Pr2503.app */;
+			productReference = 264DFEDA260D07EF0035EA15 /* CrackPassword.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -125,7 +125,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 264DFED5260D07EF0035EA15 /* Build configuration list for PBXProject "Pr2503" */;
+			buildConfigurationList = 264DFED5260D07EF0035EA15 /* Build configuration list for PBXProject "CrackPassword" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -138,7 +138,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				264DFED9260D07EF0035EA15 /* Pr2503 */,
+				264DFED9260D07EF0035EA15 /* CrackPassword */,
 			);
 		};
 /* End PBXProject section */
@@ -304,7 +304,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CC9X6PH2C6;
-				INFOPLIST_FILE = Pr2503/Resource/Info.plist;
+				INFOPLIST_FILE = CrackPassword/Resource/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,7 +323,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CC9X6PH2C6;
-				INFOPLIST_FILE = Pr2503/Resource/Info.plist;
+				INFOPLIST_FILE = CrackPassword/Resource/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -338,7 +338,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		264DFED5260D07EF0035EA15 /* Build configuration list for PBXProject "Pr2503" */ = {
+		264DFED5260D07EF0035EA15 /* Build configuration list for PBXProject "CrackPassword" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				264DFEEC260D07F00035EA15 /* Debug */,
@@ -347,7 +347,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		264DFEEE260D07F00035EA15 /* Build configuration list for PBXNativeTarget "Pr2503" */ = {
+		264DFEEE260D07F00035EA15 /* Build configuration list for PBXNativeTarget "CrackPassword" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				264DFEEF260D07F00035EA15 /* Debug */,
